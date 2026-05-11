@@ -6,7 +6,7 @@ A passionate developer with a strong interest in software development, automatio
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,dart,flutter,python,ts,js,vite,c,java,mysql)
+![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,dart,flutter,python,ts,js,vite,c,c#,.net,angular,java,mysql)
 
 
 ## IDEs 
